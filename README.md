@@ -1,1 +1,1 @@
-My newest about me site. Built with notion, hosted on github pages
+About me website. Fun fact i coded it all by myself in class
